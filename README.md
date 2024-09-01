@@ -15,7 +15,7 @@ https://www.guruguru.science/competitions/17/
 EfficientNetV2の事前学習済みモデルをベースにしたカスタムモデルを作成、'Sagittal T1'、'Axial T2'、'Sagittal T2/STIR':のそれぞれに対して、モデルを作成。   
 これを理解するのが今回このコンペに参加した意義になりそう  
 
-### https://www.kaggle.com/code/itsuki9180/rsna2024-lsdc-making-dataset    
+### https://www.kaggle.com/code/itsuki9180/rsna2024-lsdc-making-dataset  (これがかなり引用数高く、パブリックスコアが高いものもこれ or この派生形を参考にしている)
 https://www.kaggle.com/code/itsuki9180/rsna2024-lsdc-training-baseline  
 https://www.kaggle.com/code/itsuki9180/rsna2024-lsdc-submission-baseline
 の三部作。  
