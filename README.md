@@ -35,3 +35,14 @@ EfficientNet_B4からDenseNet201に変更して実施。
 ### https://www.kaggle.com/code/vaillant/cross-reference-images-in-different-mri-planes
 異なる種類の写真の関係をわかりやすく説明.  
 
+### https://www.kaggle.com/code/dschettler8845/rsna-lsdc-let-s-learn-together-eda/notebook   
+長い....
+
+### https://www.kaggle.com/code/docxian/rsna-2024-lumbar-spine-explore-training-data  
+ほかのと同様のEDA　　
+
+
+### https://www.kaggle.com/code/junkoda/optimize-the-evaluation-metric  　
+メトリックの方法
+
+
