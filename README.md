@@ -25,6 +25,12 @@ https://www.kaggle.com/code/haqishen/1st-place-soluiton-code-small-ver を引用
 3. ....
    結構難しそう,,,,,
 
+#### 派生形
+#### https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-densenet-submission　　
+https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet
+EfficientNet_B4からDenseNet201に変更して実施。
+
+
 
 ### https://www.kaggle.com/code/vaillant/cross-reference-images-in-different-mri-planes
 異なる種類の写真の関係をわかりやすく説明.  
