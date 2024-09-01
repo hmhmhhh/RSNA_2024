@@ -1,4 +1,6 @@
 # RSNA_2024
+画像コンペ  
+https://www.guruguru.science/competitions/17/
 
 # Codeまとめ(Vote 50over)
 ### (https://www.kaggle.com/code/satyaprakashshukl/rsna-lumbar-spine-analysis)
@@ -10,5 +12,20 @@
  最終的にCXGBoostで予測.入力データに画像を使用してはいない...?  
 
  ### https://www.kaggle.com/code/shubhamcodez/rsna-efficientnet-starter-notebook　　
-EfficientNetV2の事前学習済みモデルをベースにしたカスタムモデルを作成、'Sagittal T1'、'Axial T2'、'Sagittal T2/STIR':のそれぞれに対して、モデルを作成。  
+EfficientNetV2の事前学習済みモデルをベースにしたカスタムモデルを作成、'Sagittal T1'、'Axial T2'、'Sagittal T2/STIR':のそれぞれに対して、モデルを作成。   
+これを理解するのが今回このコンペに参加した意義になりそう  
+
+### https://www.kaggle.com/code/itsuki9180/rsna2024-lsdc-making-dataset    
+https://www.kaggle.com/code/itsuki9180/rsna2024-lsdc-training-baseline  
+https://www.kaggle.com/code/itsuki9180/rsna2024-lsdc-submission-baseline
+の三部作。  
+1. 前処理: Axial T2, Sagittal T2/STIR, Sagittal T1ごとに異なる処理を実施し、PNGファイルに変更:(T2はそのままPngファイル化、それ以外は中央部分のみ抽出している?)
+2. 訓練編:
+https://www.kaggle.com/code/haqishen/1st-place-soluiton-code-small-ver を引用している
+3. ....
+   結構難しそう,,,,,
+
+
+### https://www.kaggle.com/code/vaillant/cross-reference-images-in-different-mri-planes
+異なる種類の写真の関係をわかりやすく説明.  
 
