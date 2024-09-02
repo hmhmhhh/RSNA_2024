@@ -46,3 +46,7 @@ EfficientNet_B4からDenseNet201に変更して実施。
 メトリックの方法
 
 
+
+### https://www.kaggle.com/code/hengck23/2d-to-3d-projection-for-dicom/notebook
+2dデータから3dデータに変える方法
+
