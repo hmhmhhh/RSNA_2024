@@ -10,6 +10,8 @@ https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classifi
 https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/discussion/507101  
 ドメイン知識  
 
+
+
 ### https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/discussion/511055
 メトリック
 この分析では、コンペティションの評価メトリックがどのように誤予測をペナルティするかについて解説しています。特に、さまざまなタイプのエラーの影響を理解し、スコアを最適化する方法に焦点を当てています。
