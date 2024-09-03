@@ -40,3 +40,20 @@
   - `study_id` (文字列): 研究ID
   - `series_id` (文字列): シリーズID
   - `series_description` (文字列): スキャンの方向
+
+
+### Left(Right) Neural Foraminal Narrowing,:左神経根管狭窄
+
+
+### Subarticular Stenosis: 左椎間孔狭窄
+
+
+### Spinal Canal Stenosis: 脊柱管狭窄症
+サンプル: https://nonaka-lc.com/blogs/achievement-2022-11-05/
+![image](https://github.com/user-attachments/assets/31ff3059-e9e6-4b27-a631-89916723ad1c)
+https://tatikawa-treatment.com/case/%E8%84%8A%E6%9F%B1%E7%AE%A1%E7%8B%AD%E7%AA%84%E7%97%87/
+![image](https://github.com/user-attachments/assets/f3ce308e-d388-4b71-9a3d-b59359f96768)
+
+
+
+
