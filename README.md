@@ -25,8 +25,8 @@ https://www.kaggle.com/code/haqishen/1st-place-soluiton-code-small-ver を引用
 3. ....
    結構難しそう,,,,,
 
-#### 派生形
-#### https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-densenet-submission　　
+ #### 派生形
+ #### https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-densenet-submission　　
 https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-training-densenet
 EfficientNet_B4からDenseNet201に変更して実施。
 
@@ -50,6 +50,6 @@ EfficientNet_B4からDenseNet201に変更して実施。
 ### https://www.kaggle.com/code/hengck23/2d-to-3d-projection-for-dicom/notebook
 2dデータから3dデータに変える方法
 
-
-
+### https://www.kaggle.com/code/brendanartley/lumbar-coordinate-dataset-code/notebook 
+RESNET18を使用して、座標を推定  
 
