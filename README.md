@@ -53,3 +53,8 @@ EfficientNet_B4からDenseNet201に変更して実施。
 ### https://www.kaggle.com/code/brendanartley/lumbar-coordinate-dataset-code/notebook 
 RESNET18を使用して、座標を推定  
 
+
+### https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/discussion/512080  
+欠損しているデータの理由(この作者的には、がぞうから判断がつかなかった場合とのこと)
+
+
