@@ -1,11 +1,15 @@
 # RSNA_2024
 画像コンペ  
 https://www.guruguru.science/competitions/17/
+2022の1stコード
+https://www.kaggle.com/code/haqishen/rsna-2022-1st-place-solution-train-stage1/notebook
 
 # Codeまとめ(Vote 50over)
 ### (https://www.kaggle.com/code/satyaprakashshukl/rsna-lumbar-spine-analysis)
 モデルアーキテクチャ: ResNet、EfficientNet、DenseNetなどの事前学習済みCNNを使用し、カスタム層を追加。多出力モデルを作成し、各椎間板レベル（L1/L2～L5/S1）の重症度を予測。  
 最終的に、ランダムフォレストで予測している???  
+https://www.kaggle.com/code/adityakishor1/radiological-society-of-north-america-rsna-lumba/notebookはこのコードのパクリ
+
 
 ### https://www.kaggle.com/code/allegich/lumbar-rsna-2024-visualizing-eda-sub  
  Axial and Sagittal やT1,T2の意味が分かりやすい。  基本的なRDAをしているため、わかりやすい. 
@@ -57,4 +61,31 @@ RESNET18を使用して、座標を推定
 ### https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/discussion/512080  
 欠損しているデータの理由(この作者的には、がぞうから判断がつかなかった場合とのこと)
 
+
+### https://www.kaggle.com/code/anoukstein/2d-segmentation-of-sagittal-lumbar-spine-mri  
+Unetを使用した予測(attension maskの表示もあるため、現況になりそう)  
+ただし、座標データは使用していない?
+
+### https://www.kaggle.com/code/guilhermelevi/rsna-lsdc-disc-detection-baseline-faster-r-cnn
+Faster CNnを使用した脊椎部分の特定(物体検出) 予測まではおこなっていない
+
+
+### https://www.kaggle.com/code/sacuscreed/foraminal-unet-vit-train  （要確認）
+これは物体検出から、予測まで行っていそう..!?
+
+
+### https://www.kaggle.com/code/samu2505/rsna2024-training2-5dmodel#Model
+2,5次元モデル(2022年の優勝コードも2,5次元モデルを使用)
+
+### https://www.kaggle.com/code/claverru/automatic-spine-cord-segmentation-sam-2 
+SAM2というのを使用して、脊椎のせぐめんてーしょんしている
+
+
+# EDAまとめ
+### https://www.kaggle.com/code/adityakishor1/analysis-of-lumbar-spine-data-insights-from-rsna　
+初期に出されたEDA、もう既知の内容か
+
+### https://www.kaggle.com/code/utm529fg/rsna-initial-eda  
+日本語で書かれたEDA
+ 
 
